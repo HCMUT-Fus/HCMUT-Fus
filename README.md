@@ -1,4 +1,13 @@
-## Hi there 👋
+# HCMUT-Fus
+## General Information
+👋 Hello everyone 
+📛 My name is: Nguyễn Phước Bảo Phú
+😄 Pronouns: He/him/Fus(nickname)
+🇻🇳 I come from Viet Nam
+🏫 I'm currently a freshman in Computer Science at Ho Chi Minh University of Technology - VNU-HCM
+💻️ Python(know how to program and run Discord bots)/C++(currently learning)/Aim to be a Data Engineer 
+👀 I'm always looking forward to learn about new things and collaborate with everyone to improve my skills and create useful projects
+📧 You can contact me at: phu.nguyen131107@hcmut.edu.vn
 
 <!--
 **HCMUT-Fus/HCMUT-Fus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
