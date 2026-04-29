@@ -5,7 +5,7 @@
 😄 Pronouns: He/him/Fus(nickname)<br/>
 🇻🇳 I come from Viet Nam<br/>
 🏫 I'm currently a freshman in Computer Science at Ho Chi Minh University of Technology - VNU-HCM<br/>
-💻️ Python(know how to program and run Discord bots)/C++(currently learning)/Interest: AI<br/> 
+💻️ Python/C++/Interest: ML/DL<br/> 
 👀 I'm always looking forward to learn about new things and collaborate with everyone to improve my skills and create useful projects<br/>
 📧 You can contact me at: phu.nguyen131107@hcmut.edu.vn<br/>
 
