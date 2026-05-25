@@ -1,12 +1,11 @@
 # HCMUT-Fus
 ## General Information
 👋 Hello everyone<br/>
-📛 My name is: Nguyễn Phước Bảo Phú<br/>
+📛 My name is: Nguyen Phuoc Bao Phu<br/>
 😄 Pronouns: He/him/Fus(nickname)<br/>
 🇻🇳 I come from Viet Nam<br/>
 🏫 I'm currently a freshman in Computer Science at Ho Chi Minh University of Technology - VNU-HCM<br/>
-💻️ Python/C++/Interest: ML/DL<br/> 
-👀 I'm always looking forward to learn about new things and collaborate with everyone to improve my skills and create useful projects<br/>
+💻️ Python/C++/ML/DL<br/> 
 📧 You can contact me at: phu.nguyen131107@hcmut.edu.vn<br/>
 
 <!--
