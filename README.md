@@ -1,24 +1,6 @@
-# HCMUT-Fus
-## General Information
-👋 Hello everyone<br/>
-📛 My name is: Nguyen Phuoc Bao Phu<br/>
-😄 Pronouns: He/him/Fus(nickname)<br/>
-🇻🇳 I come from Viet Nam<br/>
-🏫 I'm currently a freshman in Computer Science at Ho Chi Minh University of Technology - VNU-HCM<br/>
-💻️ Python/C++/ML/DL<br/> 
-📧 You can contact me at: phu.nguyen131107@hcmut.edu.vn<br/>
-
-<!--
-**HCMUT-Fus/HCMUT-Fus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is: Nguyen Phuoc Bao Phu<br/>
+I come from Viet Nam 🇻🇳<br/>
+I'm currently a sophomore in Computer Science at Ho Chi Minh University of Technology - VNU-HCM<br/>
+Languages: Python/C++<br/>
+Topics of interest: ML/Optimization<br/>
+You can contact me at: phu.nguyen131107@hcmut.edu.vn<br/>
